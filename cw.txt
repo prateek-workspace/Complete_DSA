@@ -1,0 +1,45 @@
+Index of All Programs done in classes each day --->
+
+--> Day-001:
+
+        01: WAP to Print Namaste Duniya in cpp
+        02: WAP to print value of a number after taking input from user
+        03: WAP for Typecasting 
+        04: WAP to perform all Arithemetic Operations.
+        05: WAP to perform all Relational Operations.
+        06: WAP to perform all Logical Operations.
+
+--> Day-002: 
+
+        01: WAP to check if condition.
+        02: WAP to check if-else condition.
+        03: WAP to check if-else-if condition.
+        04: # Bonus Question
+
+--> Day-003: 
+
+        01: WAP to execute for loop.
+        02: WAP to Print Solid Rectangle Pattern.
+        03: WAP to Print Solid Square Pattern.
+        04: WAP to Print Hollow Square/Rectangle Pattern.
+        05: WAP to Print Half Pyramid Pattern.
+
+--> Day-004:
+
+        01: WAP to print inverted half pyramid pattern.
+        02: WAP to print number half Pyramid.
+
+--> Day-005:
+
+        01: WAP to print Inverted number half Pyramid.
+        02: WAP to print Full Pyramid.
+
+--> Day-006:
+
+        01: WAP to print Inverted Full Pyramid.
+        02: WAP to print Numeric Full Pyramid.
+        03: WAP to print Solid Diamond.
+
+--> Day-007:
+
+        01: WAP to print Hollow Diamond.
