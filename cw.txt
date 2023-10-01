@@ -49,4 +49,7 @@ Index of All Programs done in classes each day --->
         01: WAP to print Hollow Diamond.(working on lower hollow both days by self)
 --> Day-009:
 
-        01: WAP to print Hollow Diamond.(final pattern)
+        01: WAP to print Hollow Diamond.(still working)
+--> Day-010:
+
+        01: WAP to print Hollow Diamond.()
