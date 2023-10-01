@@ -31,7 +31,6 @@ int main()
         }  
         cout << endl;
     }
-    int m = n;
     for (int row = 0; row < n; row++)
     {
         for (int col = 0; col < row; col++)
@@ -42,15 +41,15 @@ int main()
         {
             if ( col == 0 )
             {
-                cout << "* ";
+                cout << "*";
             }
-            else if ( col == 2*m - 1 )
+            else if ( col == 2*(n-row-1) )
             {
-                cout << "* ";
+                cout << "*";
             }
             else
             {
-                cout << ".";
+                cout << " ";
             }
         }  
         cout << endl;
