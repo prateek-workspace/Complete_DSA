@@ -52,4 +52,6 @@ Index of All Programs done in classes each day --->
         01: WAP to print Hollow Diamond.(still working)
 --> Day-010:
 
-        01: WAP to print Hollow Diamond.()
+        01: WAP to print Hollow Diamond.(Completed)
+        02: WAP to print flipped solid diamond 
+
