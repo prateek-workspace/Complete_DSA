@@ -20,7 +20,7 @@ int main()
         }
 
 
-        for (col = 0; col < 2*(row); col++)
+        for (col = 0; col < 2*(row+1); col++)
         {
             cout << " ";
         }
@@ -41,7 +41,7 @@ int main()
             cout << "*";
         }
 
-        for (col = 0; col < n - 2*(row+1); col++)
+        for (col = 0; col < n - 2*(row); col++)
         {
             cout << " ";
         }
