@@ -53,5 +53,7 @@ Index of All Programs done in classes each day --->
 --> Day-010:
 
         01: WAP to print Hollow Diamond.(Completed)
-        02: WAP to print flipped solid diamond 
+        02: WAP to print flipped solid diamond. 
+        03: WAP to print Fancy Pattern 1. 
+        04: WAP to print Alphabet Palindrome Pyramid. 
 
