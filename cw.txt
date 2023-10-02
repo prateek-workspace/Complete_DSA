@@ -60,6 +60,7 @@ Index of All Programs done in classes each day --->
         04: WAP to print Alphabet Palindrome Pyramid. 
 
 --> Day-011:
-        01: WAP to print Hollow Diamond.(Completed)
+        01: WAP to print solid square pattern.
+        02: WAP to print hollow square pattern.
  
 
