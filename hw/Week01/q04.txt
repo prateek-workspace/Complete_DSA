@@ -1,0 +1,7 @@
+Write an Alogorithm to print counting from n to 1.
+
+steps : ----
+
+--> read n
+--> initialize loop variable i equals to n and run upto 1 and decrement value by 1 in each step
+--> print i

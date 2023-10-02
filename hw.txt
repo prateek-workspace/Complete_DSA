@@ -1,1 +1,10 @@
 Index of All Programs done in homework each day --->
+
+Week-01:
+        01: WAA to Multiply two numbers.
+        02: WAA for perimeter of triangle.
+        03: WAA to calculate Simple Intrest.
+        04: WAA to print counting from n to 1.
+        05: WAA to print factorial of any number.
+        06: WAA to check if number is prime or not.
+        07: WAA to check if traingle is valid or not.

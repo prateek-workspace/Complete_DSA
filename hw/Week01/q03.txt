@@ -1,0 +1,9 @@
+Write an Alogorithm to calculate Simple Intrest.
+
+steps : ----
+
+si = (principal_amount * rate * time) / 100
+
+--> read principal_amount, rate, time
+--> initialize si, si = (principal_amount * rate * time) / 100
+--> print si.

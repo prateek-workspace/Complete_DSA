@@ -1,0 +1,12 @@
+Write an Alogorithm to check if number is prime or not.
+
+steps : ----
+
+for being prime the number must be divisible by 1 and itself only.
+
+--> read num
+--> initialize check = 0.
+--> initialize loop variable i equals to n and run upto 1(excluding 1) and decrement value by 1 in each step.
+--> under loop if num % n == 0 then check ++
+--> after looping 
+--> if check == 1 the prime else non prime
