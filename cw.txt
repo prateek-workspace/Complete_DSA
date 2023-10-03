@@ -62,5 +62,12 @@ Index of All Programs done in classes each day --->
 --> Day-011:
         01: WAP to print solid square pattern.
         02: WAP to print hollow square pattern.
+
+--> Day-012:
+        01: WAP to print hollow inverted half pyramid.
+        02: WAP to print Full hollow pyramid.
+        03: WAP to print half hollow numeric pyramid.
+        04: WAP to print inverted half hollow numeric pyramid.
+        05: WAP to print numeric palindrome equilateral pyramid.
  
 
