@@ -69,5 +69,8 @@ Index of All Programs done in classes each day --->
         03: WAP to print half hollow numeric pyramid.
         04: WAP to print inverted half hollow numeric pyramid.
         05: WAP to print numeric palindrome equilateral pyramid.
+        06: WAP to print fancy pattern 2.
+        07: WAP to print solid half diamond.
+        08: WAP to print fancy pattern 3.
  
 
