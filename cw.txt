@@ -75,6 +75,6 @@ Index of All Programs done in classes each day --->
 
 --> Day-013:
         01: WAP to print numeric hollow Pyramid.
-        02: WAP to print hollow square pattern.
+        02: WAP to 
  
 
