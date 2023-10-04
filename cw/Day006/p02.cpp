@@ -22,13 +22,11 @@ int main()
             cout << m;
             m++;
         }
-        for (col = 0; col < (row + 1); col++)
+        int count = 2*row;
+        for (col = 0; col < (row); col++)
         {
-            if (row == 0)
-            {
-                cout << ".";
-            }
-            
+            cout << count;
+            count--;
         }
         cout << endl;
     }
