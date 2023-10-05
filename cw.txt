@@ -75,6 +75,11 @@ Index of All Programs done in classes each day --->
 
 --> Day-013:
         01: WAP to print numeric hollow Pyramid.
-        02: WAP to 
+
+--> Day-014:
+        01: WAP to test Bit Wise Operators.
+        02: WAP for left shift and right shift.
+        03: WAP for Pre/Post Increment/Decrement.
+
  
 
