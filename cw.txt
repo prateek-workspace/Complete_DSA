@@ -89,5 +89,9 @@ Index of All Programs done in classes each day --->
         01: WAP for switch case statements.
         02: WAP to illustrate functioning of functions.
 
+--> Day-017:
+        01: WAP to add two numbers using function.
+        02: WAP to illustrate functioning of functions.
+
  
 
