@@ -82,9 +82,12 @@ Index of All Programs done in classes each day --->
         03: WAP for Pre/Post Increment/Decrement.
 
 --> Day-015:
-        01: WAP for continue statement.
+        01: WAP for Break statement.
         02: WAP for continue statement.
-        03: WAP for Pre/Post Increment/Decrement.
+
+--> Day-016:
+        01: WAP for switch case statements.
+        02: WAP to illustrate functioning of functions.
 
  
 
