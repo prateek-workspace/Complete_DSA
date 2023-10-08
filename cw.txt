@@ -96,5 +96,7 @@ Index of All Programs done in classes each day --->
         04:  WAP to calculate area of circle using functions. 
         05:  WAP to find number is odd or even using functions. 
         06:  WAP to find factorial using functions. 
+        06:  WAP to find prime using functions. 
+        06:  WAP to print prime from 1 to n using functions. 
  
 
