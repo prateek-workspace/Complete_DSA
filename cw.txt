@@ -94,5 +94,7 @@ Index of All Programs done in classes each day --->
         02: WAP for max of 3 numbers using function.
         03: WAP to print numbers from 1 to N using function.
         04:  WAP to calculate area of circle using functions. 
+        05:  WAP to find number is odd or even using functions. 
+        06:  WAP to find factorial using functions. 
  
 
