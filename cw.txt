@@ -101,6 +101,5 @@ Index of All Programs done in classes each day --->
 
 --> Day-018:
         01: WAP to print digits of a number using function.
-        02: WAP for max of 3 numbers using function.
  
 
