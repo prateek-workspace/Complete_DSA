@@ -101,5 +101,8 @@ Index of All Programs done in classes each day --->
 
 --> Day-018:
         01: WAP to print digits of a number using function.
+
+--> Day-019:
+        01: WAP to demonstrate arrays.
  
 
