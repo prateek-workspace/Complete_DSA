@@ -104,5 +104,8 @@ Index of All Programs done in classes each day --->
 
 --> Day-019:
         01: WAP to demonstrate arrays.
+
+--> Day-020:
+        01: WAP to demonstrate arrays.
  
 
