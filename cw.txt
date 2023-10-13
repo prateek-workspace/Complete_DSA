@@ -106,6 +106,12 @@ Index of All Programs done in classes each day --->
         01: WAP to demonstrate arrays.
 
 --> Day-020:
-        01: WAP to demonstrate arrays.
+        01: Nothing.
+
+--> Day-021:
+        01: Nothing.
+
+--> Day-022:
+        01: WAP for accessing arrays.
  
 
