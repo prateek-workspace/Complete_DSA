@@ -115,5 +115,7 @@ Index of All Programs done in classes each day --->
         01: WAP for accessing arrays.
         02: WAP for taking elements as input and then printing them.
         03: WAP for taking elements as input and then printing their doubles.
+        04: WAP for replacing elements in arrays.
+        04: WAP for Linear Search in arrays.
  
 
