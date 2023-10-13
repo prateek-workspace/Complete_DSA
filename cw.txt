@@ -113,5 +113,7 @@ Index of All Programs done in classes each day --->
 
 --> Day-022:
         01: WAP for accessing arrays.
+        02: WAP for taking elements as input and then printing them.
+        03: WAP for taking elements as input and then printing their doubles.
  
 
