@@ -118,5 +118,6 @@ Index of All Programs done in classes each day --->
         04: WAP for replacing elements in array.
         05: WAP for Linear Search in array.
         06: WAP for Counting 0 and 1 in array.
+        07: WAP for finding max number in array.
  
 

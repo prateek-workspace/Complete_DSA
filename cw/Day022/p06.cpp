@@ -5,23 +5,23 @@ using namespace std;
 int main()
 {
 
-    int arr[]= {0,1,1,1,0,0,0,0,1,0,1,0,1,0,1};
-    int a,b = 0;
+    int arr[15]= {0,1,1,1,0,0,0,0,1,0,1,0,1,0,1};
+    int numZero = 0;
+    int numOne = 0;
 
-    for (int i = 0; i < 15; i++)
+    for (int i=0; i<15; i++)
     {
-        if (arr[i] == 1)    
+        if(arr[i] == 0)    
         {
-            a++;
+            numZero++;
         }
-        else if(arr[i] == 0)
+        if(arr[i] == 1)
         {
-            b++;
+            numOne++;
         }
-    
     }
     
-    cout << "Total 0's are : " << b << endl;
-    cout << "Total 1's are : " << a << endl;
+    cout << "Total 0's are : " << numZero << endl;
+    cout << "Total 1's are : " << numOne << endl;
 
 }
