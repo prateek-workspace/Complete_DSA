@@ -122,5 +122,8 @@ Index of All Programs done in classes each day --->
         08: WAP for finding min number in array.
         09: WAP for printing extremes in array.
         10: WAP for reversing an array.
+
+--> Day-023: 
+        01: WAP 
  
 
