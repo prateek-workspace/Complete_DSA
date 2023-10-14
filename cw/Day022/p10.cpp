@@ -20,3 +20,27 @@ int main()
     }
 
 }
+
+
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+
+//     int arr[9]={1,3,5,7,9,2,4,6,8};
+//     int size = 9;
+//     int start = 0;
+//     int end = size - 1;
+//     while(start<=end)
+//     {
+//         swap(arr[start],arr[end]); 
+//         start++;
+//         end--;
+//     }
+
+//     for (int i = 0; i < 9; i++)
+//     {
+//         cout << arr[i] << " ";
+//     }
+
+// }
