@@ -124,6 +124,7 @@ Index of All Programs done in classes each day --->
         10: WAP for reversing an array.
 
 --> Day-023: 
-        01: WAP 
+        01: WAP to demonstrate vectors.
+        
  
 

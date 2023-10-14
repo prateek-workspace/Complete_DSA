@@ -1,4 +1,4 @@
-// WAP to  
+// WAP to demonstrate vectors. 
 
 #include<iostream>
 using namespace std;
