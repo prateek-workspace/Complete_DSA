@@ -53,27 +53,20 @@ int main()
   
     // pushing elements to new array after taking them from both arrays.
     vector<int> arrUnion;
-    for (int i = 0; i <= n; i++)
+    for (int i = 0; i < n; i++)
     {
+        arrUnion.push_back(firstArr[i]);
+    }
 
-        if (firstArr.size()<=n) 
-        {
-
-            arrUnion.push_back(firstArr[i]);
-        }
-
-        else
-        {
-
-            arrUnion.push_back(secondArr[i]);
-        }
-
+    for (int i = 0; i < n; i++)
+    {
+        arrUnion.push_back(secondArr[i]);
     }
 
     // printing union of arrays.  
     for (int i = 0; i < finalIndex; i++)
     {
-        cout << arrUnion[i]<< endl;
+        cout << arrUnion[i]<< " ";
     }
 
     return 0;
