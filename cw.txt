@@ -128,7 +128,7 @@ Index of All Programs done in classes each day --->
         02: WAP to find unique element in an array.
 
 --> Day-024: 
-        01: WAP to 
+        01: WAP to find union of two arrays.
         
  
 
