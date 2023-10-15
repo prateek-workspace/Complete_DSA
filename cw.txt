@@ -125,6 +125,10 @@ Index of All Programs done in classes each day --->
 
 --> Day-023: 
         01: WAP to demonstrate vectors.
+        02: WAP to find unique element in an array.
+
+--> Day-024: 
+        01: WAP to 
         
  
 
