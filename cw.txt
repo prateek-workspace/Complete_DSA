@@ -129,6 +129,10 @@ Index of All Programs done in classes each day --->
 
 --> Day-024: 
         01: WAP to find union of two arrays.
+        02: WAP to find intersection of two arrays.
+
+--> Day-025: 
+        01: WAP to 
         
  
 
