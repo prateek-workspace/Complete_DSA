@@ -57,9 +57,9 @@ int main()
             {
 
                 // marking element so that it doesnot gets repeated.
-                //here you can give any number except 1 & 0
+                //here you can give any number except INT_MIN
 
-                secondArr[j] = -1;
+                secondArr[j] = INT8_MIN;
 
                 arrIntersecion.push_back(firstArr[i]);
             }
