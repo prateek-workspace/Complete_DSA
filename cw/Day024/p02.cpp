@@ -48,6 +48,7 @@ int main()
     }
 
 
+/* The code is finding the intersection of two arrays `firstArr` and `secondArr`. */
     vector<int> arrIntersecion;
     for (int i = 0; i < n; i++)
     {
@@ -69,6 +70,8 @@ int main()
     }
 
     // printing intersection of arrays.  
+/* The code `for (int i = 0; i < arrIntersecion.size(); i++)` is a loop that iterates over the elements
+of the `arrIntersecion` vector. */
     for (int i = 0; i < arrIntersecion.size(); i++)
     {
         cout << arrIntersecion[i]<< " ";

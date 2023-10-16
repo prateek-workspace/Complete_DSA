@@ -4,6 +4,14 @@
 #include<vector>
 using namespace std;
 
+/**
+ * The function "findUnique" takes in a vector of integers and returns the unique element in the vector
+ * using the XOR operation.
+ * 
+ * @param arr A vector of integers
+ * 
+ * @return the unique element in the given vector.
+ */
 int findUnique(vector<int> arr)
 {
 
