@@ -132,7 +132,7 @@ Index of All Programs done in classes each day --->
         02: WAP to find intersection of two arrays.
 
 --> Day-025: 
-        01: WAP to 
+        01: WAP for pair sum.
         
  
 
