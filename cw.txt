@@ -136,6 +136,7 @@ Index of All Programs done in classes each day --->
 
 --> Day-026: 
         01: WAP for Triplet sum.
+        01: WAP for Four sum.
 
         
  
