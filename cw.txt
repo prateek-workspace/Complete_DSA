@@ -133,6 +133,10 @@ Index of All Programs done in classes each day --->
 
 --> Day-025: 
         01: WAP for pair sum.
+
+--> Day-026: 
+        01: WAP for Triplet sum.
+
         
  
 
