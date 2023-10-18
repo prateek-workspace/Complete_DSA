@@ -136,8 +136,11 @@ Index of All Programs done in classes each day --->
 
 --> Day-026: 
         01: WAP for Triplet sum.
-        01: WAP for Four sum.
-        01: WAP to sort 0's and 1's in an array.
+        02: WAP for Four sum.
+        03: WAP to sort 0's and 1's in an array.
+
+--> Day-027: 
+        01: WAP to demonstrate 2-D Arrays.
 
         
  

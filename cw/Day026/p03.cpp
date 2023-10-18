@@ -1,6 +1,6 @@
 // WAP sort 0's and 1's in arrays.
     // (Dutch National Flag Problem)
-    // two solutions are her...first is of mine.
+    // two solutions are here...first is of mine.
 
 #include<iostream>
 #include<vector>
