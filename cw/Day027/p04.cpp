@@ -3,7 +3,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-int numCheck(int arr[][3], int row, int column, int key)
+bool numCheck(int arr[][3], int row, int column, int key)
 // here we mention the second value(columns) in function declaration equals to 5 because we have to provide the size of columns just put here exact column size value.
 {
     // finding element.
@@ -15,14 +15,11 @@ int numCheck(int arr[][3], int row, int column, int key)
         {
             if (arr[i][j]==key)
             {
-                cout << "Element is Present" << endl;
-                break;
+                return 0;
             }
         }
-        cout << "Element is not Present" << endl;
-        break;
     }
-    return 0;
+    return 1;
 }
 
 
