@@ -1,5 +1,10 @@
 // WAP to print fancy pattern 2.
 
+/**
+ * This C++ program prints a pattern of stars and numbers in the shape of a square with a pyramid
+ * inside.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

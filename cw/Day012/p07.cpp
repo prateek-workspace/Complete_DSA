@@ -1,5 +1,9 @@
 // WAP to print solid half diamond.
 
+/**
+ * This C++ program prints a pattern of asterisks in a pyramid shape.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

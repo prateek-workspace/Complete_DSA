@@ -1,4 +1,8 @@
-// WAP to  
+// WAP to rint Inverted number half Pyramid  
+
+/**
+ * This C++ program prints a triangle pattern of numbers based on user input.
+ */
 
 #include<iostream>
 using namespace std;

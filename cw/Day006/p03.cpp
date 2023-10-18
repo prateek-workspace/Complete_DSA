@@ -1,5 +1,9 @@
 // WAP to print diamond 
 
+/**
+ * This C++ program prints a triangle pattern using asterisks.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

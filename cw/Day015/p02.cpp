@@ -1,3 +1,6 @@
+/**
+ * This program demonstrates the use of the continue statement in a for loop.
+ */
 // WAP for continue statement.
 
 #include<iostream>

@@ -1,5 +1,9 @@
 // WAP to print numeric palindrome equilateral pyramid. 
 
+/**
+ * This C++ program prints a triangle pattern with numbers.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

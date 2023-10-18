@@ -15,11 +15,11 @@ bool numCheck(int arr[][3], int row, int column, int key)
         {
             if (arr[i][j]==key)
             {
-                return 0;
+                return true;
             }
         }
     }
-    return 1;
+    return false;
 }
 
 
@@ -29,7 +29,7 @@ int main()
     int arr[3][3];
     int row = 3;
     int column = 3;
-    int key = 3;
+    int key = 4;
 
     // taking input 
 
@@ -57,7 +57,13 @@ int main()
 
     }
 
-    numCheck(arr,row,column,key);
-    
-    return 0;
-}
+    if (numCheck(arr,row,column,key))
+    {
+        cout << "Element Found\n";
+    }
+    else
+    {
+        cout << "Element not found\n";
+    }
+
+}   

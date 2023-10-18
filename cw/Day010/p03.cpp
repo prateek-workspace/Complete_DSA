@@ -1,4 +1,8 @@
-// WAP to  
+// WAP to print Fancy Pattern 1.
+
+/**
+ * This C++ program prints a pattern of numbers and asterisks in a pyramid shape.
+ */
 
 #include<iostream>
 using namespace std;

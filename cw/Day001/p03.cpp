@@ -1,5 +1,9 @@
 // WAP for Typecasting 
 
+/**
+ * The code converts a float to an int, assigns an int to a float, and prints the ASCII value of a
+ * character.
+ */
 #include<iostream>
 using namespace std;
 

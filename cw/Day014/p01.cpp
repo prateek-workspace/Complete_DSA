@@ -1,3 +1,6 @@
+/**
+ * This program tests the bitwise operators in C++.
+ */
 // WAP to test bitwise operators.
 
 #include<iostream>

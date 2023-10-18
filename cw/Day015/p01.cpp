@@ -1,3 +1,7 @@
+/**
+ * This program uses a for loop to print "Prateek" and then uses the break statement to exit the loop,
+ * and finally prints "Srivastava".
+ */
 // WAP for break statement.
 
 #include<iostream>

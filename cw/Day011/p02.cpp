@@ -1,5 +1,9 @@
 // WAP to print hollow square pattern 
 
+/**
+ * This C++ program prints a square made of asterisks with a given side length.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

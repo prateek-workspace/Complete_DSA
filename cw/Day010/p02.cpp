@@ -1,5 +1,9 @@
 // WAP to print flipped solid diamond 
 
+/**
+ * This C++ program prints a diamond pattern of asterisks based on the user input length.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

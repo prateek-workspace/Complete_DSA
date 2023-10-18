@@ -1,5 +1,9 @@
 // WAP to print inverted half pyramid pattern.
 
+/**
+ * This C++ program prints a triangle of asterisks based on user input.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

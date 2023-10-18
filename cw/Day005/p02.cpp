@@ -1,5 +1,9 @@
 // WAP to Print Full Pyramid
 
+/**
+ * This C++ program prints a pyramid pattern of asterisks based on user input.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

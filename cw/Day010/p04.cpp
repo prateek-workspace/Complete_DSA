@@ -1,5 +1,9 @@
 // WAP to print alphabet palindrome pattern.
 
+/**
+ * This C++ program prints a pattern of alphabets in a pyramid shape.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

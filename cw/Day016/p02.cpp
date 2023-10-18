@@ -1,3 +1,6 @@
+/**
+ * The program prompts the user to enter a number and then prints "Namaste Duniya" that many times.
+ */
 // WAP to demonstrate functions. 
 
 #include<iostream>

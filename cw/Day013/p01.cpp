@@ -1,3 +1,7 @@
+/**
+ * This program prints a numeric hollow pyramid pattern based on the user input.
+ */
+
 // WAP to print numeric hollow pyramid.
 
 #include<iostream>

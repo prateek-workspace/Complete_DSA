@@ -1,5 +1,9 @@
 // WAP to print fancy pattern 3.
 
+/**
+ * This C++ program prompts the user for a length and then prints a pattern of asterisks.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

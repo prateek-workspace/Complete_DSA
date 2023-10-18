@@ -1,5 +1,9 @@
 // WAP to print numeric half pyramid.
 
+/**
+ * This C++ program prints a triangle pattern of numbers based on user input.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

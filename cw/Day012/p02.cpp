@@ -1,5 +1,9 @@
 // WAP to print hollow full pyramid.
 
+/**
+ * This C++ program prints a triangle pattern of asterisks.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

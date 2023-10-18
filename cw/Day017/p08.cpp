@@ -1,3 +1,8 @@
+/**
+ * The program checks whether a given number is prime or not using a function.
+ * 
+ * @param n The number to be checked if it is prime or not.
+ */
 // WAP to find number is prime or not using functions.
 
 #include<iostream>

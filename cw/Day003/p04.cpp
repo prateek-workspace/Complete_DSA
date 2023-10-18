@@ -1,5 +1,10 @@
 // WAP to Print hollow rectangle triangle.
 
+/**
+ * This C++ program takes input for the length and breadth of a rectangle and prints a rectangle using
+ * asterisks.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

@@ -1,5 +1,9 @@
 // WAP to Print Solid Rectangle Pattern.
 
+/**
+ * This C++ program prints a rectangle made of asterisks with 3 rows and 5 columns.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

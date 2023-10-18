@@ -1,5 +1,10 @@
 // WAP to print hollow diamond 
 
+/**
+ * This C++ program prints two triangles, one pointing upwards and the other pointing downwards, using
+ * asterisks and dots.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

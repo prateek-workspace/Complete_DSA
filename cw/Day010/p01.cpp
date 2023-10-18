@@ -1,5 +1,9 @@
 // WAP to print hollow diamond 
 
+/**
+ * This C++ program prints two triangles, one upside down, with a given length.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

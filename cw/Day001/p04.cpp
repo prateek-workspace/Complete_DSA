@@ -1,4 +1,8 @@
 // WAP to perform all Arithemetic Operations.
+/**
+ * This C++ program takes two numbers as input and performs addition, subtraction, division,
+ * multiplication, and modulus operations on them.
+ */
 
 #include<iostream>
 using namespace std;

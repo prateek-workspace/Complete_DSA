@@ -1,5 +1,9 @@
 // WAP to print half pyramid pattern. 
 
+/**
+ * This C++ program takes an input 'n' and prints a pattern of asterisks in a triangular shape.
+ */
+
 #include<iostream>
 using namespace std;
 int main()

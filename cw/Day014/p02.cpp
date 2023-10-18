@@ -1,3 +1,6 @@
+/**
+ * This C++ program demonstrates the use of left shift and right shift operators.
+ */
 // WAP for left shift and right shift.
 
 #include<iostream>

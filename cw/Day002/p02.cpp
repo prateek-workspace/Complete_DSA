@@ -1,4 +1,8 @@
 // WAP to check if-else condition.
+/**
+ * This C++ program takes a user input for a score and outputs whether India or Pakistan wins based on
+ * the score.
+ */
 
 #include<iostream>
 using namespace std;

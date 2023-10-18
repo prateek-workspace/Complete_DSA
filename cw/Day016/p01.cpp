@@ -1,3 +1,7 @@
+/**
+ * This program takes an input from the user and uses a switch case statement to print different
+ * outputs based on the input value.
+ */
 // WAP for switch case statements. 
 
 #include<iostream>
