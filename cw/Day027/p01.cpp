@@ -29,7 +29,8 @@ int main()
 
     }
 
-    // displaying output of 2D Array.
+    // displaying output of 2D Array Row Wise.
+    cout << "Row Wise Printing : " << endl;
     cout << "{";
     for (int i = 0; i < n; i++)
     {
@@ -37,6 +38,21 @@ int main()
         for (int j = 0; j < m; j++)
         {
             cout << arr[i][j] << ",";
+        }
+        cout << "},";
+        
+    }
+    cout << "}" << endl;
+    
+    // displaying output of 2D Array Column Wise.
+    cout << "Column Wise Printing : " << endl;
+    cout << "{";
+    for (int i = 0; i < n; i++)
+    {
+        cout << "{";
+        for (int j = 0; j < m; j++)
+        {
+            cout << arr[j][i] << ",";
         }
         cout << "},";
         
