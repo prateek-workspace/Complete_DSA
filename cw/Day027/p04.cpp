@@ -1,5 +1,19 @@
 // WAP for linear search in 2D Arrays.
 
+/**
+ * This C++ program checks if a given number is present in a 2D array.
+ * 
+ * @param arr A 2D array of integers with size 3x3.
+ * @param row The number of rows in the 2D array. In this case, it is 3.
+ * @param column The variable "column" represents the number of columns in the 2D array. In this case,
+ * it is set to 3.
+ * @param key The key is the element that we are searching for in the 2D array. In this code, the key
+ * is set to 4.
+ * 
+ * @return The function `numCheck` returns a boolean value. It returns `true` if the key is found in
+ * the 2D array, and `false` otherwise.
+ */
+
 #include<iostream>
 #include<vector>
 using namespace std;

@@ -1,4 +1,14 @@
-// WAP to print column sum in 2D Arrays.
+
+/**
+ * The above code takes input for a 2D array column-wise, prints the array column-wise, and calculates
+ * and prints the sum of each column.
+ * 
+ * @param arr A 2D array of integers with 4 rows and 5 columns.
+ * @param row The variable "row" represents the number of rows in the 2D array. In this case, it is set
+ * to 4.
+ * @param column The parameter "column" represents the number of columns in the 2D array. In this case,
+ * it is set to 5.
+ */
 
 #include<iostream>
 #include<vector>

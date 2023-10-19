@@ -1,4 +1,9 @@
-// WAP to demonstrate 2-D Arrays. 
+/**
+ * This C++ program takes input for a 2D array, displays the array row-wise and column-wise.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
+
 
 #include<iostream>
 #include<vector>

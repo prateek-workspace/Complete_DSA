@@ -148,7 +148,9 @@ Index of All Programs done in classes each day --->
         02: WAP to print Row Sum in 2D Arrays.
         03: WAP to print Column Sum in 2D Arrays.
         04: WAP for Linear Search in 2D Arrays.
-        05: WAP for Max and Min Search in 2D Arrays.
+
+--> Day-028:
+        01: WAP for Max and Min Search in 2D Arrays.
 
         
  
