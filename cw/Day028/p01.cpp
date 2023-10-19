@@ -1,14 +1,51 @@
 
-
 #include<iostream>
 #include<vector>
 using namespace std;
+
+
+int findMin(int arr[][3], int row, int column, int minNum)
+{
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < column; j++)
+        {
+            if (arr[i][j]<=minNum)
+            {
+                minNum = arr[i][j];
+            }
+            
+        }
+    }
+    return minNum;
+}
+
+
+int findMax(int arr[][3], int row, int column, int maxNum)
+{
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < column; j++)
+        {
+            if (arr[i][j]>=maxNum)
+            {
+                maxNum = arr[i][j];
+            }
+            
+        }
+    }
+    return maxNum;
+}
+
+
 int main()
 {
     
     int arr[3][3];
     int row = 3;
     int column = 3;
+    int maxNum = INT8_MIN;
+    int minNum = INT8_MAX;
 
     // taking input 
 
@@ -35,6 +72,9 @@ int main()
     cout << endl;
 
     }
+
+    cout << "Maximum Number is : " << findMax(arr,row,column,maxNum) << endl;
+    cout << "Minimum Number is : " << findMin(arr,row,column,minNum) << endl;
 
     
     return 0;
