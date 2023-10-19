@@ -1,3 +1,9 @@
+/**
+ * This C++ program takes an array of integers as input and sorts it in ascending order, with all the
+ * 0s appearing before the 1s and all the 1s appearing before the 2s.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 
 #include<iostream>
 #include<vector>
