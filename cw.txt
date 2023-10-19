@@ -155,7 +155,7 @@ Index of All Programs done in classes each day --->
         03: WAP to demonstrate 2D Array using Vectors.
         04: Sort an array for 0's, 1's and 2's.
         05: Move all -ve no to one side of an array.
-
+        06: find duplicates in an array.
         
  
 
