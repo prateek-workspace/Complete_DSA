@@ -1,3 +1,17 @@
+/**
+ * This C++ program takes input for a 3x3 array, prints the array, and then finds the maximum and
+ * minimum numbers in the array.
+ * 
+ * @param arr A 2D array of integers with dimensions 3x3.
+ * @param row The number of rows in the 2D array. In this case, it is 3.
+ * @param column The variable "column" represents the number of columns in the 2D array. In this case,
+ * it is set to 3.
+ * @param minNum The variable `minNum` is used to store the minimum number found in the 2D array. It is
+ * initially set to the maximum possible value for an integer (`INT8_MAX`) so that any number in the
+ * array will be smaller than it.
+ * 
+ * @return The program is returning the maximum and minimum numbers from the 2D array.
+ */
 
 #include<iostream>
 #include<vector>

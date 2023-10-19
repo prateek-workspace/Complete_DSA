@@ -1,3 +1,14 @@
+/**
+ * The above code takes input for a 3x3 matrix, prints the original matrix, transposes the matrix, and
+ * then prints the transposed matrix.
+ * 
+ * @param a rr A 2D array of size 3x3, which represents the original array.
+ * @param row 3
+ * @param column The variable "column" represents the number of columns in the 2D array. In this case,
+ * it is set to 3.
+ * @param brr brr is a 2D array of integers with dimensions 3x3. It is used to store the transposed
+ * array.
+ */
 
 
 #include<iostream>

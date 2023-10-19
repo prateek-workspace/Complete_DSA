@@ -151,6 +151,10 @@ Index of All Programs done in classes each day --->
 
 --> Day-028:
         01: WAP for Max and Min Search in 2D Arrays.
+        02: WAP to transpose a 2D Array.
+        03: WAP to demonstrate 2D Array using Vectors.
+        04: Sort an array for 0's, 1's and 2's.
+        05: Move all -ve no to one side of an array.
 
         
  
