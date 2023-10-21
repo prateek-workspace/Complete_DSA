@@ -157,7 +157,7 @@ Index of All Programs done in classes each day --->
         05: Move all -ve no to one side of an array.
         06: find duplicates in an array.(not done)
         07: find missing number among first n natural numbers.
-        07: find common number in 3 arrays.
+        08: find common number in 3 arrays.
         
  
 
