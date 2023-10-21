@@ -97,11 +97,11 @@ Index of All Programs done in classes each day --->
         01: WAP to add two numbers using function.
         02: WAP for max of 3 numbers using function.
         03: WAP to print numbers from 1 to N using function.
-        04:  WAP to calculate area of circle using functions. 
-        05:  WAP to find number is odd or even using functions. 
-        06:  WAP to find factorial using functions. 
-        06:  WAP to find prime using functions. 
-        06:  WAP to print prime from 1 to n using functions. 
+        04: WAP to calculate area of circle using functions. 
+        05: WAP to find number is odd or even using functions. 
+        06: WAP to find factorial using functions. 
+        07: WAP to find prime using functions. 
+        08: WAP to print prime from 1 to n using functions. 
 
 --> Day-018:
         01: WAP to print digits of a number using function.
@@ -158,6 +158,12 @@ Index of All Programs done in classes each day --->
         06: find duplicates in an array.(not done)
         07: find missing number among first n natural numbers.
         08: find common number in 3 arrays.
+
+--> Day-029:
+        01: Nothing.
+
+--> Day-030:
+        01: 
         
  
 
