@@ -16,3 +16,4 @@ Week-02:
         01: WAP to convert celcius to fahrenheit.
         02: WAP to print Pascal's Triangle.
         03: WAP to print Floyd's Triangle.
+        04: WAP to print Prime Numbers in given Range.
