@@ -163,7 +163,19 @@ Index of All Programs done in classes each day --->
         01: Nothing.
 
 --> Day-030:
-        01: 
+        01: Done Nothing.
+
+--> Day-031:
+        01: Done Nothing.
+
+--> Day-032:
+        01: Done Nothing.
+
+--> Day-033:
+        01: Done Nothing.    
+
+--> Day-033:
+                Done some homework.
         
  
 
