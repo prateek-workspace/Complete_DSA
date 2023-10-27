@@ -17,3 +17,4 @@ Week-02:
         02: WAP to print Pascal's Triangle.
         03: WAP to print Floyd's Triangle.
         04: WAP to print Prime Numbers in given Range.
+        05: WAP to print Prime Numbers in given Range.
