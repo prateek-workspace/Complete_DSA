@@ -1,4 +1,7 @@
-// WAP for accessing elemnts in arrays.
+/**
+ * This C++ program initializes an array with 5 integers and then prints each value on a new line.
+ */
+
 
 #include<iostream>
 using namespace std;
