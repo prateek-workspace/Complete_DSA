@@ -1,7 +1,6 @@
 /**
- * The above code implements the binary search algorithm to find the index of a target element in a
- * sorted array.
- * 
+ * The above code implements the binary search algorithm to find the index of a target element in a sorted array.
+ 
  * @param arr The array to be searched. In this case, it is {0,1,2,3,4,5,6,7,8,9,10}.
  * @param size The size parameter represents the number of elements in the array. In this case, the
  * array has 11 elements.
