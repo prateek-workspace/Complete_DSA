@@ -16,7 +16,7 @@ int binarySearch(int arr[], int size, int target)
         {
             return mid;
         }
-        else if (target < element)
+        if (target < element)
         {
             // searching in left
             end = mid - 1;
@@ -27,7 +27,7 @@ int binarySearch(int arr[], int size, int target)
             start = mid + 1;
         }
         
-        mid = (start+end)/2;
+        mid = start + (end - start)/2;
    
     }
  
