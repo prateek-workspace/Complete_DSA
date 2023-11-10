@@ -1,4 +1,6 @@
-// WAP for taking elements as input and then printing them. 
+/**
+ * This C++ program takes input for an array of size 6 and then prints the elements of the array.
+ */
 
 #include<iostream>
 using namespace std;
