@@ -1,3 +1,14 @@
+/**
+ * The above C++ code implements a binary search algorithm to find the last occurrence of a given
+ * number in a sorted vector.
+ * 
+ * @param arr The arr parameter is a vector of integers that represents the array in which we want to
+ * find the last occurrence of a given number.
+ * @param num The number that you want to search for in the array.
+ * 
+ * @return The function `lastOccurrence` returns the index of the last occurrence of the given number
+ * in the vector `arr`. If the number is not found in the vector, it returns -1.
+ */
 
 #include<iostream>
 #include<vector>

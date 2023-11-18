@@ -1,3 +1,8 @@
+/**
+ * This C++ program finds the missing number in a given vector of integers.
+ * 
+ * @return The program is returning 0.
+ */
 
 #include<iostream>
 #include<vector>

@@ -1,3 +1,14 @@
+/**
+ * The above code is a C++ program that finds the first and last occurrence of a given number in a
+ * sorted array and calculates the total number of occurrences.
+ * 
+ * @param arr The arr parameter is a vector of integers that represents the array in which we want to
+ * search for the number.
+ * @param num The number that you want to search for in the array.
+ * 
+ * @return The function `firstOccurrence` returns the index of the first occurrence of the given number
+ * in the vector `arr`. If the number is not found, it returns -1.
+ */
 
 #include<iostream>
 #include<vector>

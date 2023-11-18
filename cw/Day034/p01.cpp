@@ -1,3 +1,14 @@
+/**
+ * The above code is a C++ program that finds the first occurrence of a given number in a sorted array
+ * using binary search.
+ * 
+ * @param arr The arr parameter is a vector of integers that represents the array in which we want to
+ * find the first occurrence of a number.
+ * @param num The number that you want to search for in the vector.
+ * 
+ * @return The function `firstOccurrence` returns the index of the first occurrence of the given number
+ * in the vector `arr`. If the number is not found, it returns -1.
+ */
 
 #include<iostream>
 #include<vector>
