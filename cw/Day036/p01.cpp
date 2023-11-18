@@ -4,26 +4,32 @@
  * @return The program is returning 0.
  */
 
+// Alternate Ways for finding the missing number 
+
+// Method : 1:---
+
+// since for a continuos series the numbers start from 1 but the index starts from 0
+// so number = index + 1;
+
 #include<iostream>
 #include<vector>
 using namespace std;
 int main()
 {
     vector<int> arr{1,2,3,4,5,6,7,9};
-    int size = arr.size() - 1;
-    int actualSum = ((arr[size]) * (arr[size] + 1))/2;
-
-    int sum = 0;
-
-    for (int i = 0; i < 8; i++)
+    int missingNum = 0;
+    for (int i = 0; i < arr.size(); i++)
     {
     
-        sum = sum + arr[i];
+        if (arr[i+1] - arr[i] != 1)
+        {
+            break;
+        }
+        
+
+        missingNum = arr[i+1] + 1;
 
     }
-    
-    int missingNum = actualSum - sum;
-
 
     cout << "Missing Number is : " << missingNum << endl;
     
