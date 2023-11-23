@@ -1,6 +1,7 @@
 // sort colors LeetCode - 75
 #include<iostream>
 #include<vector>
+#include<math.h>
 using namespace std;
 int main()
 {
@@ -31,8 +32,7 @@ int main()
 
     for (int i = 0; i < arr.size(); i++)
     {
-        cout << arr[i] << ",";
+        cout << arr[i];
     }
-    
     return 0;
 }
