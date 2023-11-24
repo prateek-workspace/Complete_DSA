@@ -1,3 +1,9 @@
+/**
+ * The code sorts an array of colors (represented by integers) in-place using the Dutch National Flag
+ * algorithm.
+ * 
+ * @return The code is returning 0, which is the exit status of the program.
+ */
 // sort colors LeetCode - 75
 #include<iostream>
 #include<vector>
