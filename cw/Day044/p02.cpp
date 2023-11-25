@@ -1,3 +1,8 @@
+/**
+ * The code finds and prints the duplicate number in a given vector.
+ * 
+ * @return The program is returning 0.
+ */
 // Leetcode 287
 // Find Duplicate Number
 #include<iostream>
