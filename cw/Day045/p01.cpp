@@ -1,3 +1,11 @@
+/**
+ * The missingNum function takes an array of integers and its size as input, and prints the missing
+ * numbers in the range 1 to n.
+ * 
+ * @param a The array `a` contains the numbers from which we need to find the missing numbers.
+ * @param n The variable `n` represents the size of the array `a`. In the given code, `n` is calculated
+ * as the size of the array `a` divided by the size of an integer (`sizeof(int)`).
+ */
 
 #include<iostream>
 #include<vector>
