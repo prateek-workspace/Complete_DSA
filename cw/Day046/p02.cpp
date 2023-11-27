@@ -1,3 +1,9 @@
+/**
+ * The function `wavePrintMatrix` takes a 2D vector as input and prints its elements in a wave-like
+ * pattern.
+ * 
+ * @param arr A 2D vector representing a matrix.
+ */
 
 #include<iostream>
 #include<vector>
