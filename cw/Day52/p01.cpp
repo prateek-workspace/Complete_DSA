@@ -22,18 +22,19 @@ int main()
         {
             int temp =  ans[j]*i+carry;
             ans[j] = (temp) % 10;
-            int carry = temp / 10;
+            carry = temp / 10;
         }
 
-        if (carry)
+        while(carry)
         {
-            ans.push_back(carry);
+            ans.push_back(carry%10);
+            carry = carry / 10;
         }
-        carry = 0;
+        // carry = 0;
 
     }
 
-    reverse(ans.begin(), ans.end());
+    // reverse(ans.begin(), ans.end());
 
     for (int i = 0; i < ans.size(); i++)
     {
