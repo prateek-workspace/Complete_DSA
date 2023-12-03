@@ -1,3 +1,4 @@
+/* The Solution class contains a method that returns the elements of a matrix in spiral order. */
 // Leetcode 54 Spiral Matrix
 
 class Solution {

@@ -1,3 +1,8 @@
+/**
+ * The function spiralPrintMatrix takes a matrix as input and prints its elements in a spiral order.
+ * 
+ * @param arr A 2D vector representing a matrix.
+ */
 // spriral print a matrix
 #include<iostream>
 #include<vector>

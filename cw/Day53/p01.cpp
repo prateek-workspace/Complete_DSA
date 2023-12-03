@@ -1,3 +1,10 @@
+/**
+ * The above C++ code finds the square root of a given number using binary search.
+ * 
+ * @param num The variable `num` represents the number for which you want to find the square root.
+ * 
+ * @return The function `findSqrt` returns the square root of the input number `num`.
+ */
 
 #include<iostream>
 #include<vector>

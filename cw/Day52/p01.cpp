@@ -1,3 +1,9 @@
+/**
+ * This C++ program calculates the factorial of a given number using a vector to store the digits of
+ * the factorial.
+ * 
+ * @return The program is returning 0, which indicates that the program executed successfully.
+ */
 // Factorial of a larger number.
 
 
