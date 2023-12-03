@@ -1,3 +1,8 @@
+/**
+ * The above C++ code searches for a target element in a 2D array using binary search.
+ * 
+ * @return The program is returning 0, which indicates that the program executed successfully.
+ */
 // search for an element in a 2D Array.
 #include<iostream>
 #include<vector>
