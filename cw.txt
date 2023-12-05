@@ -160,31 +160,93 @@ Index of All Programs done in classes each day --->
         08: find common number in 3 arrays.
 
 --> Day-029:
-        01: Nothing.
+        01: Learned about linear search algorithm.
 
 --> Day-030:
-        01: Done Nothing.
+        01: Implementation of Binary Search.
 
 --> Day-031:
-        01: Done Nothing.
+        Break due to health isuues.
 
 --> Day-032:
-        01: Done Nothing.
+        01: Binary Search and older concepts revision.
 
 --> Day-033:
-        01: Done Nothing.    
-
---> Day-033:
-                Done some homework.
+        01: Break.    
 
 --> Day-034:
-                Done some homework.
+        01: first occurence using Binary Search.
+        02: last occurence using Binary Search.
+        03: total occurences using Binary Search.
+        04: missing number using Binary Search.
 
 --> Day-035:
-                Busy in making Resume and Portfolio.
+        01: Break.
 
 --> Day-036:
-                Again doing the leftover homework.
-        
+        01: Break. 
+
+--> Day-037:
+        01: Missing number using Binary Search.(Alternate Ways)       
+ 
+--> Day-038:
+        01: Missing number using Binary Search.(Alternate Ways)       
+ 
+--> Day-039:
+        01: Peak Element in a Mountain Array using Binary Search.      
+ 
+--> Day-040:
+        01: done nothing...break...      
  
 
+--> Day-041:
+        01: done nothing...break...      
+ 
+
+--> Day-042:
+        01: solving some older problem sets and doing leetcode   
+ 
+--> Day-043:
+        01:  Sort Colors Leetcode 75. (Dutch National flag Problem Same as sort for 0's, 1's and 2's)     
+ 
+--> Day-044:
+        01: Move all negative to left of an array.  
+        02: Find Duplicate in an array. (Leet Code 287).  
+ 
+--> Day-045:
+        01:  Find missing number. (also alternate by Sorting the array)     
+ 
+--> Day-046:
+        01: Fisrt Repeating element using brute force and by using hashmap both ways.
+ 
+--> Day-047:
+        01: Spiral Print a matrix    
+ 
+--> Day-048:
+        01: did some research about the spiral print matrix    
+ 
+--> Day-049:
+        01: Break. (exploring about platforms like codeforces and codechef)       
+ 
+--> Day-050:
+        01: Break.  
+ 
+
+--> Day-051:
+        01: Spiral Print Matrix (Leetcode - 54)     
+ 
+
+--> Day-052:
+        01: Factorial of a large number.   
+ 
+--> Day-053:
+        01: Square root of a number.    
+        02: Binary Search in a 2-D Array.    
+
+--> Day-054:
+        01: Search in a nearly sorted array.
+ 
+
+--> Day-055:
+        01:       
+ 
