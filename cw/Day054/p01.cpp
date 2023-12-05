@@ -1,3 +1,8 @@
+/**
+ * The code searches for a target value in a nearly sorted array using a binary search algorithm.
+ * 
+ * @return The program is returning 0, which indicates that the program executed successfully.
+ */
 // search in a nearly sorted array.
 #include<iostream>
 #include<vector>
