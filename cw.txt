@@ -248,5 +248,11 @@ Index of All Programs done in classes each day --->
  
 
 --> Day-055:
-        01:       
+        01: Division of two numbers using binary search. 
+
+--> Day-055:
+        01: Division of two numbers using binary search with precision. 
+
+--> Day-055:
+        01: Find odd occuring element using Binary Search. 
  
