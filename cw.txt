@@ -245,14 +245,16 @@ Index of All Programs done in classes each day --->
 
 --> Day-054:
         01: Search in a nearly sorted array.
- 
 
 --> Day-055:
         01: Division of two numbers using binary search. 
 
---> Day-055:
+--> Day-056:
         01: Division of two numbers using binary search with precision. 
 
---> Day-055:
+--> Day-057:
+        01: Find odd occuring element using Binary Search using Hash Map. 
+
+--> Day-058:
         01: Find odd occuring element using Binary Search. 
  
