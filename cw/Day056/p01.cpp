@@ -1,3 +1,9 @@
+/**
+ * The code implements division of two numbers using binary search with precision.
+ * 
+ * @param divisor The divisor is the number that you want to divide the dividend by.
+ * @param dividend The dividend is the number that is being divided.
+ */
 // division of two numbers using binary search with precision.
 #include<iostream>
 #include<vector>

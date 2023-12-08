@@ -1,3 +1,11 @@
+/**
+ * The above C++ code calculates the division of two numbers using binary search.
+ * 
+ * @param divisor The number that divides the dividend.
+ * @param dividend The dividend is the number that is being divided.
+ * 
+ * @return The function `division` returns the quotient of the division of `dividend` by `divisor`.
+ */
 // division of two numbers
 #include<iostream>
 #include<vector>

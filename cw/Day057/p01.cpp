@@ -1,3 +1,8 @@
+/**
+ * This C++ program finds the oddly occurring element in an array using a hashmap.
+ * 
+ * @return The program is returning 0, which indicates that the program executed successfully.
+ */
 // oddly occuring element.
 
 // using hashmap. Time Complexity --> O(n), Space Complexity --> O(n)
