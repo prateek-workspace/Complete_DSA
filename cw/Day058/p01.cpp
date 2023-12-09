@@ -111,7 +111,7 @@ int solve(vector<int> arr){
 int main()
 { 
 
-    vector<int> arr{1,1,4,4,2,2,4,4,2};
+    vector<int> arr{3,3,7,7,10,11,11};
     int ans = solve(arr);
     cout << "Index is : " << ans << endl;
     cout << "Number is : " << arr[ans] << endl;
