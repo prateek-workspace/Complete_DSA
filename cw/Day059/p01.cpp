@@ -49,6 +49,7 @@ int findPivot(vector<int> arr)
         mid = s + (e-s)/2;
         
     }
+    return -1;
    
 }
 int main()
