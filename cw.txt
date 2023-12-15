@@ -253,8 +253,29 @@ Index of All Programs done in classes each day --->
         01: Division of two numbers using binary search with precision. 
 
 --> Day-057:
-        01: Find odd occuring element using Binary Search using Hash Map. 
+        01: Find odd occuring element using Binary Search & Hash Map. 
 
 --> Day-058:
-        01: Find odd occuring element using Binary Search. 
+         01: Find odd occuring element using Binary Search.
+ 
+--> Day-059:
+        01: Piovt Element in a rotated and sorted array using Binary Search.
+
+--> Day-060:
+        01: Find element in a rotated and sorted array using Binary Search. 
+
+--> Day-061:
+        01: Count pairs with difference "K".  (Leetcode-33)  
+
+--> Day-062:
+        01: Just did nothing...a break btw...tried to learn a more about sorting algorithms and how they work. 
+
+--> Day-063:
+        01: Just did nothing...a break today...btw finding solution for k closest element though. 
+
+--> Day-064:
+        01: Just did nothing...a break. 
+        
+--> Day-065:
+        01: 
  
