@@ -1,4 +1,4 @@
-// Selection Sort
+// Bubble Sort
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -10,11 +10,11 @@ int main()
     for (int i = 0; i < arr.size()-1; i++)
     {
 
-        // finding smaller element in the remaining array.
+        // finding larger element in the remaining array.
 
-        for (int j = i+1; j < arr.size(); j++)
+        for (int j = i; j < size; j++)
         {
-            if (arr[j]<arr[i])
+            if (arr[i]>arr[j])
             {
                 swap(arr[i],arr[j]);
             }            
