@@ -1,3 +1,8 @@
+/**
+ * The above code implements the Bubble Sort algorithm to sort an array of integers in ascending order.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 // Bubble Sort
 #include<iostream>
 #include<vector>
@@ -27,13 +32,19 @@ int main()
     {
 
         // finding larger element in the remaining array.
-
+        int swapped = 0;
         for (int j = 0; j < size - i; j++)
         {
             if (arr[j]>arr[j+1])
             {
                 swap(arr[j],arr[j+1]);
-            }            
+                swapped++;
+            } 
+                   
+        }
+        if(swapped == 0){
+            // already sorted ho chuka hai, no need to check furthur and swapping
+            break;
         }
     }
 

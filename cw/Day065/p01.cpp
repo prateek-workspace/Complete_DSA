@@ -1,3 +1,9 @@
+/**
+ * The above code implements the selection sort algorithm to sort an array of integers in ascending
+ * order.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 // Selection Sort
 #include<iostream>
 #include<vector>
