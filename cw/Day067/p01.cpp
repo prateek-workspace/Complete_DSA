@@ -6,11 +6,12 @@
 
 #include<iostream>
 #include<vector>
+#include<string.h>
 using namespace std;
 int main()
 {
     
-    char ch[100];
+    char ch[5];
 
     // taking input as a whole.
 
@@ -19,14 +20,21 @@ int main()
 
     // cout << "Your name is : " << ch << endl;
 
+    // taking string input as a whole with spaces.
+
+    cout << "Enter your name : " << endl;
+    cin.getline(ch,50);
+
+    cout << "Your name is : " << ch << endl;
+
     // taking single single inputs.
 
-    ch[0] = 'a';
-    ch[1] = 'b';
-    ch[2] = 'c';
-    cin >> ch[3];
+    // ch[0] = 'a';
+    // ch[1] = 'b';
+    // ch[2] = 'c';
+    // cin >> ch[3];
 
-    cout << "Your Array is : " << ch[0] << ch[1] << ch[2] << ch[3] << endl;
+    // cout << "Your Array is : " << ch[0] << ch[1] << ch[2] << ch[3] << endl;
 
     return 0;
 }
