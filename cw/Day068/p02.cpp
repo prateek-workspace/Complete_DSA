@@ -21,15 +21,18 @@ int main()
 
     cout <<"Size of Array is : " << e << endl;
 
-    while (s<=e)
+    for (int i = 0; i < size; i++)
     {
-        swap(ch[e],ch[s]);
-        s++;
-        e--;
+        if (ch[i]==' ')
+        {
+            ch[i]='@';
+        }
+        
     }
     
+    
 
-    cout << "Reversed array is : " << ch << endl;
+    cout << "Modified array is : " << ch << endl;
     
     return 0;
 }
