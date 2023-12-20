@@ -1,3 +1,8 @@
+/**
+ * This C++ program counts the number of spaces in a given string.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 
 #include<iostream>
 #include<string.h>

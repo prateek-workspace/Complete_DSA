@@ -1,3 +1,9 @@
+/**
+ * This C++ program takes a user's name as input, reverses the characters in the name, and then outputs
+ * the reversed name.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 
 #include<iostream>
 #include<string.h>

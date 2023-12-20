@@ -1,3 +1,12 @@
+/**
+ * The above code checks whether a given string is a palindrome or not.
+ * 
+ * @param ch The parameter `ch` is a character array that represents the string to be checked for
+ * palindrome.
+ * 
+ * @return The function `checkPalindrome` returns a boolean value. It returns `true` if the input
+ * string is a palindrome, and `false` otherwise.
+ */
 // check if string is palindrome or not
 #include<iostream>
 #include<string.h>

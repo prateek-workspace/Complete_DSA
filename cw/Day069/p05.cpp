@@ -1,3 +1,8 @@
+/**
+ * This C++ program converts a string to lowercase.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 
 #include<iostream>
 #include<string.h>

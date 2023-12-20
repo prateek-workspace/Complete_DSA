@@ -1,3 +1,9 @@
+/**
+ * This C++ program takes a user's name as input, replaces any spaces with '@' symbols, and outputs the
+ * modified name.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 
 #include<iostream>
 #include<string.h>

@@ -1,3 +1,8 @@
+/**
+ * This C++ program takes a string as input and converts all lowercase letters to uppercase.
+ * 
+ * @return The main function is returning an integer value of 0.
+ */
 
 #include<iostream>
 #include<string.h>
