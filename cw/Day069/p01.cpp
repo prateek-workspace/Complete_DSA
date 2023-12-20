@@ -1,4 +1,4 @@
-
+// check if string is palindrome or not
 #include<iostream>
 #include<string.h>
 #include<vector>
@@ -32,7 +32,7 @@ int main()
 
     cout << "Original String is : " << ch << endl;
 
-    cout << checkPalindrome(ch) << endl;
+    cout << "Palindrome Check : " << checkPalindrome(ch) << endl;
     
     return 0;
 }
