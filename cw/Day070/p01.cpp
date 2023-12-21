@@ -1,3 +1,12 @@
+/**
+ * The above C++ code compares two strings and determines if they are the same or if one is larger than
+ * the other.
+ * 
+ * @param a The first string entered by the user.
+ * @param b The variable `b` is a string that represents the second input string.
+ * 
+ * @return The function `compareStr` is returning an integer value of 0.
+ */
 #include<iostream>
 #include<string.h>
 #include<vector>
