@@ -9,6 +9,7 @@
         "utility": "cpp",
         "vector": "cpp",
         "functional": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "sstream": "cpp"
     }
 }
