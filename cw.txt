@@ -277,5 +277,5 @@ Index of All Programs done in classes each day --->
         01: Just did nothing...a break. 
         
 --> Day-065:
-        01: 
+        01: implements the selection sort algorithm to sort an array of integers in ascending
  
