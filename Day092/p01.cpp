@@ -1,3 +1,9 @@
+/**
+ * The function `missingNumber` takes a vector of integers `array` and an integer `n` as input, sorts
+ * the array, and then iterates through the array to find the missing number.
+ * 
+ * @return The missing number in the given array.
+ */
 //{ Driver Code Starts
 // Initial template for C++
 
