@@ -1,3 +1,9 @@
+/**
+ * The given code checks whether a given string is a palindrome or not.
+ * 
+ * @return The function isPalindrome is returning an integer value. It returns 1 if the given string is
+ * a palindrome, and 0 otherwise.
+ */
 //{ Driver Code Starts
  
 #include <bits/stdc++.h>

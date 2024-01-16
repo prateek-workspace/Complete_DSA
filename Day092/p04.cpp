@@ -1,3 +1,9 @@
+/**
+ * The function `valueEqualToIndex` takes an array of integers and its size as input, and returns a
+ * vector containing the elements of the array that are equal to their respective indices.
+ * 
+ * @return The function `valueEqualToIndex` returns a vector of integers.
+ */
 //{ Driver Code Starts
 #include<bits/stdc++.h>
 
