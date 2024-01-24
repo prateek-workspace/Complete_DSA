@@ -5,7 +5,7 @@ Welcome to 'Complete_DSA'! 🎉 This repository is a comprehensive collection of
 
 What's more? I am currently solving questions each day on various platforms and saving each code for the problem in this repository. This makes 'Complete_DSA' a growing resource for learning and understanding data structures and algorithms. 🌱📈
 
-## 💻 Installation 💻
+## 💻 Installation & Usage 💻
 
 1. Clone the repository 📂
    ```
