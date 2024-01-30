@@ -1,5 +1,6 @@
 /* The Solution class contains a method called longestCommonPrefix that takes in a vector of strings
 and returns the longest common prefix among all the strings. */
+// leetcode 14
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {

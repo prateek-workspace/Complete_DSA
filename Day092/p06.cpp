@@ -1,3 +1,9 @@
+/**
+ * The function `compareFive` takes an integer `n` as input and returns "Greater than 5" if `n` is
+ * greater than 5, "Less than 5" if `n` is less than 5, and "Equal to 5" if `n` is equal to 5.
+ * 
+ * @return The function `compareFive` returns a string.
+ */
 //{ Driver Code Starts
 #include<bits/stdc++.h> 
 using namespace std; 

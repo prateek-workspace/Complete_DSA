@@ -1,5 +1,6 @@
 /* The Solution class provides a method to find the index of the first occurrence of a substring within
 a given string. */
+// leetcode 28
 class Solution {
 public:
     int strStr(string haystack, string needle) {

@@ -1,5 +1,6 @@
 /* The Solution class contains a method called convert that takes a string and an integer as input and
 returns a modified version of the string based on a zigzag pattern. */
+// leetcode 6 
 class Solution {
 public:
     string convert(string s, int numRows) {

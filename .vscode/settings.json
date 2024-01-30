@@ -11,6 +11,7 @@
         "functional": "cpp",
         "random": "cpp",
         "sstream": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "string": "cpp"
     }
 }
