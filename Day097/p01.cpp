@@ -1,41 +1,44 @@
-/* The Solution class contains a method called convert that takes a string and an integer as input and
-returns a modified version of the string based on a zigzag pattern. */
-// leetcode 6 
-class Solution {
+/* The Solution class contains a method convert that takes a string and integer as input and returns a modified version of the string on a zigzag.
+
+Time complexity: O(n) where n is the length of the input string
+Space complexity: O((n, numRows))
+*/
+class Solution{
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1) {
+        if (numRows == 1) { // if numRows is 1, return the input string as it is
             return s;
         }
 
-        vector<string> zigzag(numRows);
+        vector<string> zigzag(numRows); // create a vector of strings with size numRows
 
-        int i = 0;
-        int row = 0;
-        bool direction = 1;
+        int i = 0; // index to iterate through the input string
+        int row = 0; // index to keep track of the current row
+        bool direction = 1; // boolean variable to toggle the direction of iteration
 
-        while (true) {
-            if (direction) {
-                while (row < numRows && i < s.size()) {
-                    zigzag[row++].push_back(s[i++]);
+        while (true) { // outer loop to iterate through the input string
+            if (direction) { // if direction is true, iterate downwards
+                while (row < numRows && i < s.size()) { // while row is within bounds and there are still characters left in the input string
+                    zigzag[row++].push_back(s[i++]); // add the character at index i to the current row and increment i and row
                 }
-                row = numRows - 2;
-            } else {
-                while (row >= 0 && i < s.size()) {
-                    zigzag[row--].push_back(s[i++]);
+                row = numRows - 2; // set row to the second last row
+            } else { // if direction is false, iterate upwards
+                while (row >= 0 && i < s.size()) { // while row is within bounds and there are still characters left in the input string
+                    zigzag[row--].push_back(s[i++]); // add the character at index i to the current row and increment i and decrement row
                 }
-                row = 1;
+                row = 1; // set row to the first row
             }
-            if (i >= s.size()) {
+            if (i >= s.size()) { // if we have reached the end of the input string, break out of the loop
                 break;
             }
-            direction = !direction;
         }
-        string ans = "";
-        for (int i = 0; i < zigzag.size(); i++) {
-            ans += zigzag[i];
-            cout << zigzag[i] << endl;
+
+        // concatenate the rows of the zigzag vector to form the final string
+        string result = "";
+        for (int j = 0; j < numRows; j++) {
+            result += zigzag[j];
         }
-        return ans;
+
+        return result;
     }
 };
