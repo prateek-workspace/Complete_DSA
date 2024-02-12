@@ -1,6 +1,5 @@
-/* The Solution class provides a method, myPow, which calculates the power of a given number. */
-// Leetcode 50
-// works fine but can not past only 2 test cases optimisation needed
+// LeetCode - 50
+// this can't solve all the testcases but most of them also i'm trying to find the optimal approach
 
 class Solution {
 public:
