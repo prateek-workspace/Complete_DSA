@@ -2,7 +2,7 @@
 using namespace std;
 
 void util(int *p){
-//   her value is pass by reference so in this a copy of p is created and that is also pointing towards a so updating p doesn't have any effect on the code
+//   her value is pass by value so in this a copy of p is created and that is also pointing towards a so updating p doesn't have any effect on the code
   p = p + 1;
 }
 
