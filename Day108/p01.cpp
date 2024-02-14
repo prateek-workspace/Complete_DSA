@@ -9,7 +9,7 @@ void util(int *p){
 void util2(int *p){
 //   here value is pass by reference so in this a copy of p is created and that is also pointing towards a.
 
-// but here we are not updating p but we are going to update the value to which p is pointing bcs=z we are updating *p
+// but here we are not updating p but we are going to update the value to which p is pointing bcz we are updating *p
 
   *p = *p + 1;
 }
@@ -17,7 +17,7 @@ void util2(int *p){
 int main() {
 
   int a = 5;
-  int * p = &a;
+  int * p = &a; 
 
   cout << "before" << endl;
   cout << a << endl;
