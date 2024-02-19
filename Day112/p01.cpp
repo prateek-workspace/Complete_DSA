@@ -1,5 +1,6 @@
 /* The class `Solution` contains a recursive function `climb` to calculate the number of ways to climb
 `n` stairs and a function `climbStairs` that calls `climb` and returns the result. */
+// Leetcode - 70
 class Solution {
 public:
     int climb(int n) {
