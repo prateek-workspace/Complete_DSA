@@ -1,3 +1,13 @@
+/**
+ * The function calculates the power of 2 raised to a given number using recursion and bitwise
+ * operations.
+ * 
+ * @param n The code you provided is a recursive function to calculate the power of 2 raised to a given
+ * number 'n'. It uses a divide and conquer approach to calculate the power efficiently.
+ * 
+ * @return The function `power` is a recursive function that calculates the power of 2 raised to the
+ * input number `n`. The function returns the result of 2 raised to the power of `n`.
+ */
 #include <iostream>
 using namespace std;
 int power(int n){

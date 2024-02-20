@@ -1,3 +1,19 @@
+/**
+ * The given C++ program finds the maximum and minimum numbers in an array using recursive functions.
+ * 
+ * @param arr arr is an integer array containing the elements {1, 2, 6, 615, 64, 3, 7, 84, 0}.
+ * @param n The variable `n` in this code represents the number of elements in the array `arr`. In this
+ * specific example, `n` is initialized to 9, indicating that the array `arr` contains 9 elements.
+ * @param i The variable `i` in the given code represents the current index being processed in the
+ * array during recursion. It is used to iterate over the elements of the array recursively in the
+ * functions `findMax` and `findMin`.
+ * @param maxi The `maxi` parameter in the `findMax` function is used to store the maximum value found
+ * in the array. It is passed by reference so that its value can be modified within the function and
+ * the updated maximum value can be retained after the function call.
+ * 
+ * @return The program is not returning any value explicitly. It simply prints out the maximum and
+ * minimum numbers in the array and then returns 0 at the end of the main function.
+ */
 #include <iostream>
 #include <limits.h>
 using namespace std;
