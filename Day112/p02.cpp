@@ -20,7 +20,7 @@ void findDigits(int n){
 }
 int main() {
   int n;
-  cout << "Enter number : " << endl;
+  cout << "Enter number :  " << endl;
   cin >> n; 
   findDigits(n);
   return 0;
