@@ -28,6 +28,6 @@ int main() {
   int n;
   cout << "Enter number upto which you want to raise power : " << endl;
   cin >> n; 
-  cout << power(n) << endl;
+  cout << power(n) << endl; 
   return 0;
 }
