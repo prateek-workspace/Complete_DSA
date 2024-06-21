@@ -1,7 +1,0 @@
-Write an Alogorithm to Multiply two numbers.
-
-steps : ----
-
---> read a,b
---> initialize c, c = a * b
---> print c

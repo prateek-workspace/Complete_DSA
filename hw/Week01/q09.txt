@@ -1,7 +1,0 @@
-WAA to find greatest among 3 numbers.
-
---> read a,b,c
---> check if (a>b && a>c) then a is greatest
-    else if (b>a && b>c) then b is greatest 
-    else c will be greatest
-    

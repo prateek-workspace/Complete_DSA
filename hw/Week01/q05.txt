@@ -1,9 +1,0 @@
-Write an Alogorithm to print factorial of n.
-
-steps : ----
-
---> read n
---> initialize fact = 1
---> initialize loop variable i equals to n and run upto 1 and decrement value by 1 in each step
-also store fact = fact*i
---> print fact after exiting from loop.
