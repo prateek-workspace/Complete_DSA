@@ -1,4 +1,4 @@
-/* The Solution class provides a method find the largest number can be formed by concatenatingthe elements of a vector of integers.
+/* The Solution class provides a method find the largest number can be formed by concatenating the elements of a vector of integers.
 */
 class Solution{
 public:

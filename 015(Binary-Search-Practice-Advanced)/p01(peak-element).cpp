@@ -1,3 +1,11 @@
+/**
+ * The given C++ function finds and returns the index of a peak element in a given vector using binary
+ * search.
+ * 
+ * @param arr The code you provided is for finding a peak element in an array using binary search. In
+ * the `peakElement` function, the code is trying to find a peak element in the given array `arr`. A
+ * peak element is an element that is greater than or equal to its neighbors.
+ */
 
 #include<iostream>
 #include<vector>

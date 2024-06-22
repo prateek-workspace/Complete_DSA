@@ -1,4 +1,4 @@
-// WAP to Print hollow rectangle triangle.
+// WAP to Print hollow rectangle.
 
 /**
  * This C++ program takes input for the length and breadth of a rectangle and prints a rectangle using

@@ -7,6 +7,9 @@
  * as the size of the array `a` divided by the size of an integer (`sizeof(int)`).
  */
 
+// Method 1:---
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -46,6 +49,8 @@ int main()
     return 0;
 }
 
+
+// Method-2:---
 
 // Alternate Way by Sorting 
 

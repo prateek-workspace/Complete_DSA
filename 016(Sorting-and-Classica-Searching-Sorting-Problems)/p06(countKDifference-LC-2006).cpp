@@ -1,3 +1,5 @@
+/* The class `Solution` contains a method `countKDifference` that calculates the count of pairs of
+elements in a vector that have a difference of `k`. */
 class Solution {
 public:
     int countKDifference(vector<int>& nums, int k) {
